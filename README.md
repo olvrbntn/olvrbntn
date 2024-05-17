@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olvrbntn
-- 👀 I'm a multi-disciplinary developer & analyst currently based out of Portland, Oregon. Aside from coding, I'm passionate about many creative endeavors including playing music, visual art, DIY projects, and photography. Always trying to make cool stuff and learn things that interest me.
+- 👀 I'm a multi-disciplinary developer & analyst currently based in Portland, Oregon. Aside from coding, I'm passionate about many creative endeavors including playing music, visual art, DIY projects, and photography. Always trying to make cool stuff and learn things that interest me.
 - 📫 How to reach me: email - oliverjavier.web@gmail.com
 
 
